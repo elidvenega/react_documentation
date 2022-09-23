@@ -1,9 +1,9 @@
-import { Buttons } from "./components/first.component";
+import { CurlyBraces } from "./components/jsxcurlybraces.component";
 
 function App() {
   return (
     <div className="App">
-   <Buttons />
+   <CurlyBraces />
     </div>
   );
 }
