@@ -1,9 +1,9 @@
 # React documentation Notes
 
-My study notes for react
+My study notes for react.
 
-### git clone
+git clone https://github.com/elidvenega/react_documentation.git
 
-### npm install
+npm install
 
-### npm start
+npm start
