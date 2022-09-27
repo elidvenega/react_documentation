@@ -13,7 +13,7 @@ function Test() {
   )
 }
 
-export const CurlyBraces = () => {
+export default const CurlyBraces = () => {
   return (
     <div className='component_one'>
       <h1 style={{
