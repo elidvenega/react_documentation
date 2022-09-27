@@ -1,6 +1,6 @@
 # React documentation Notes
 
-My study notes for react.
+My study notes for React
 
 ## Tech Stack
 
@@ -8,9 +8,7 @@ My study notes for react.
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
-git clone https://github.com/elidvenega/react_documentation.git
+git clone 
 
 npm install
 
