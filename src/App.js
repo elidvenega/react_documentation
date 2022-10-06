@@ -1,6 +1,7 @@
 // import  CurlyBraces  from "./components/jsxcurlybraces.component";
 // import Props  from "./components/props.component";
-import PackingList from "./components/conditional.component";
+// import PackingList from "./components/conditional.component";
+import Interactivity from './components/interactivity/interactivity.component';
 
 import './app.css';
 
@@ -11,7 +12,8 @@ function App() {
    {/* <Props  name="eli"/>
    <Props  name="Jake"/>
    <Props  name="David"/> */}
-   <PackingList />
+   {/* <PackingList /> */}
+   <Interactivity />
     </div>
   );
 }
